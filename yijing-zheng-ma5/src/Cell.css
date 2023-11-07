@@ -1,0 +1,9 @@
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid grey;
+}
+
+.boxBlackBackground {
+    background-color: black;
+}
